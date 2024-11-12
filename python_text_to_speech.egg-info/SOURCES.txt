@@ -1,0 +1,15 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+python-text-to-speech/TTS.py
+python-text-to-speech/__init__.py
+python-text-to-speech/Registry/__init__.py
+python-text-to-speech/Registry/handle_voice.py
+python_text_to_speech.egg-info/PKG-INFO
+python_text_to_speech.egg-info/SOURCES.txt
+python_text_to_speech.egg-info/dependency_links.txt
+python_text_to_speech.egg-info/requires.txt
+python_text_to_speech.egg-info/top_level.txt
