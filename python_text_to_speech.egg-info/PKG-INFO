@@ -1,12 +1,12 @@
 Metadata-Version: 2.1
 Name: python-text-to-speech
-Version: 0.0.1
+Version: 0.0.2
 Summary: A python text to speech library
-Home-page: https://github.com/JunaidParkar/Python-TTS
+Home-page: https://github.com/JunaidParkar/python-text-to-speech
 Author: Junaid Parkar
-Project-URL: Documentation, https://github.com/JunaidParkar/Python-TTS
-Project-URL: Source, https://github.com/JunaidParkar/Python-TTS
-Project-URL: Tracker, https://github.com/JunaidParkar/Python-TTS
+Project-URL: Documentation, https://github.com/JunaidParkar/python-text-to-speech
+Project-URL: Source, https://github.com/JunaidParkar/python-text-to-speech
+Project-URL: Tracker, https://github.com/JunaidParkar/python-text-to-speech
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: Boost Software License 1.0 (BSL-1.0)
 Classifier: Operating System :: OS Independent

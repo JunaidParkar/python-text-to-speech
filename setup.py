@@ -2,12 +2,12 @@ from setuptools import setup, find_packages
 
 setup(
     name='python-text-to-speech',
-    version='0.0.1',
+    version='0.0.2',
     author='Junaid Parkar',
     description='A python text to speech library',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/JunaidParkar/Python-TTS',
+    url='https://github.com/JunaidParkar/python-text-to-speech',
     include_package_data=True,
     packages=find_packages(),
     install_requires=[
@@ -21,8 +21,8 @@ setup(
     ],
     python_requires='>=3.10',
     project_urls={
-        'Documentation': 'https://github.com/JunaidParkar/Python-TTS',
-        'Source': 'https://github.com/JunaidParkar/Python-TTS',
-        'Tracker': 'https://github.com/JunaidParkar/Python-TTS',
+        'Documentation': 'https://github.com/JunaidParkar/python-text-to-speech',
+        'Source': 'https://github.com/JunaidParkar/python-text-to-speech',
+        'Tracker': 'https://github.com/JunaidParkar/python-text-to-speech',
     },
 )
